@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="31.1549394" lon="121.4249325">
+		<name>上海南站</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.1598238" lon="121.4386868">
+		<name>石龙路</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.1713452" lon="121.4398134">
+		<name>龙漕路</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.178597" lon="121.4338374">
+		<name>漕溪路</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.1887578" lon="121.4224005">
+		<name>宜山路</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.1993396" lon="121.416167">
+		<name>虹桥路</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2114159" lon="121.4124441">
+		<name>延安西路</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2198299" lon="121.4111245">
+		<name>中山公园</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2340411" lon="121.4086246">
+		<name>金沙江路</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>cccc00</color></marker>
+		</extensions>
+	</wpt>
+	<trk>
+		<name>上海南站 - 石龙路</name>
+		<desc>Length: 1.39 km (0.864 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.1550679" lon="121.4251471"></trkpt>
+			<trkpt lat="31.1568491" lon="121.4285696"></trkpt>
+			<trkpt lat="31.1577305" lon="121.4317131"></trkpt>
+			<trkpt lat="31.1585752" lon="121.4348459"></trkpt>
+			<trkpt lat="31.1598146" lon="121.4385796"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>石龙路 - 龙漕路</name>
+		<desc>Length: 1.475 km (0.917 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.1598054" lon="121.4386225"></trkpt>
+			<trkpt lat="31.1605307" lon="121.4403713"></trkpt>
+			<trkpt lat="31.1610816" lon="121.4411116"></trkpt>
+			<trkpt lat="31.1617151" lon="121.4416909"></trkpt>
+			<trkpt lat="31.1624403" lon="121.4420986"></trkpt>
+			<trkpt lat="31.1634227" lon="121.4422488"></trkpt>
+			<trkpt lat="31.164203" lon="121.4421844"></trkpt>
+			<trkpt lat="31.1649466" lon="121.441927"></trkpt>
+			<trkpt lat="31.1660116" lon="121.4413905"></trkpt>
+			<trkpt lat="31.1672417" lon="121.4408004"></trkpt>
+			<trkpt lat="31.1686096" lon="121.4405215"></trkpt>
+			<trkpt lat="31.1700692" lon="121.4401782"></trkpt>
+			<trkpt lat="31.1712718" lon="121.4398134"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>龙漕路 - 漕溪路</name>
+		<desc>Length: 1.017 km (0.632 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.1713636" lon="121.4397275"></trkpt>
+			<trkpt lat="31.1724835" lon="121.4394808"></trkpt>
+			<trkpt lat="31.1734841" lon="121.4390945"></trkpt>
+			<trkpt lat="31.1747417" lon="121.4384401"></trkpt>
+			<trkpt lat="31.1755403" lon="121.4378715"></trkpt>
+			<trkpt lat="31.1762563" lon="121.4371848"></trkpt>
+			<trkpt lat="31.1768805" lon="121.4363801"></trkpt>
+			<trkpt lat="31.1773853" lon="121.4355969"></trkpt>
+			<trkpt lat="31.177881" lon="121.4348567"></trkpt>
+			<trkpt lat="31.1785695" lon="121.4337945"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>漕溪路 - 宜山路</name>
+		<desc>Length: 1.562 km (0.971 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.1786153" lon="121.4337623"></trkpt>
+			<trkpt lat="31.179368" lon="121.4326358"></trkpt>
+			<trkpt lat="31.1802951" lon="121.4313376"></trkpt>
+			<trkpt lat="31.1815251" lon="121.4296639"></trkpt>
+			<trkpt lat="31.1832048" lon="121.4278078"></trkpt>
+			<trkpt lat="31.1862429" lon="121.4244819"></trkpt>
+			<trkpt lat="31.1871699" lon="121.4236021"></trkpt>
+			<trkpt lat="31.1886843" lon="121.4224219"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>宜山路 - 虹桥路</name>
+		<desc>Length: 1.308 km (0.813 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.1888036" lon="121.4223254"></trkpt>
+			<trkpt lat="31.1926676" lon="121.4196754"></trkpt>
+			<trkpt lat="31.1956136" lon="121.4176583"></trkpt>
+			<trkpt lat="31.1961551" lon="121.417315"></trkpt>
+			<trkpt lat="31.199257" lon="121.4161563"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>虹桥路 - 延安西路</name>
+		<desc>Length: 1.4 km (0.87 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.1993029" lon="121.4161348"></trkpt>
+			<trkpt lat="31.200863" lon="121.4155877"></trkpt>
+			<trkpt lat="31.2021018" lon="121.415019"></trkpt>
+			<trkpt lat="31.2032581" lon="121.4144611"></trkpt>
+			<trkpt lat="31.2053779" lon="121.4136672"></trkpt>
+			<trkpt lat="31.2081309" lon="121.4125729"></trkpt>
+			<trkpt lat="31.2092687" lon="121.4123368"></trkpt>
+			<trkpt lat="31.210067" lon="121.4122939"></trkpt>
+			<trkpt lat="31.2107369" lon="121.4123368"></trkpt>
+			<trkpt lat="31.2113517" lon="121.4124334"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>延安西路 - 中山公园</name>
+		<desc>Length: 0.966 km (0.6 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.2113975" lon="121.4124441"></trkpt>
+			<trkpt lat="31.2136915" lon="121.4127553"></trkpt>
+			<trkpt lat="31.215334" lon="121.4128625"></trkpt>
+			<trkpt lat="31.2163157" lon="121.4127016"></trkpt>
+			<trkpt lat="31.2180132" lon="121.4119935"></trkpt>
+			<trkpt lat="31.2197932" lon="121.4110923"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name>中山公园 - 金沙江路</name>
+		<desc>Length: 1.654 km (1.028 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>cccc00</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.2198207" lon="121.4110494"></trkpt>
+			<trkpt lat="31.2226925" lon="121.4097512"></trkpt>
+			<trkpt lat="31.2259311" lon="121.4081526"></trkpt>
+			<trkpt lat="31.2264082" lon="121.4079487"></trkpt>
+			<trkpt lat="31.2272431" lon="121.4076698"></trkpt>
+			<trkpt lat="31.2278761" lon="121.4074981"></trkpt>
+			<trkpt lat="31.2288211" lon="121.4073908"></trkpt>
+			<trkpt lat="31.2299403" lon="121.4074123"></trkpt>
+			<trkpt lat="31.2309587" lon="121.4075625"></trkpt>
+			<trkpt lat="31.2316192" lon="121.4077342"></trkpt>
+			<trkpt lat="31.2339952" lon="121.4085817"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

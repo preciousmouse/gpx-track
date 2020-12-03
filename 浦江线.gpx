@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="31.0632426" lon="121.5081447">
+		<name>沈杜公路 - 浦江线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>747474</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.0582941" lon="121.523043">
+		<name>三鲁公路 - 浦江线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>747474</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.0501949" lon="121.5260679">
+		<name>闵瑞路 - 浦江线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>747474</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.0431907" lon="121.5263213">
+		<name>浦航路 - 浦江线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>747474</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.0326604" lon="121.5278086">
+		<name>东城一路 - 浦江线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>747474</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.0274638" lon="121.5204124">
+		<name>汇臻路 - 浦江线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>747474</color></marker>
+		</extensions>
+	</wpt>
+	<trk>
+		<name><![CDATA[沈杜公路 <-> 三鲁公路]]></name>
+		<desc>Length: 1.983 km (1.232 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>747474</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.0632489" lon="121.5081346"></trkpt>
+			<trkpt lat="31.0608543" lon="121.5082902"></trkpt>
+			<trkpt lat="31.0605188" lon="121.5083197"></trkpt>
+			<trkpt lat="31.0598387" lon="121.508325"></trkpt>
+			<trkpt lat="31.0584831" lon="121.5084618"></trkpt>
+			<trkpt lat="31.0582625" lon="121.5085235"></trkpt>
+			<trkpt lat="31.058058" lon="121.5086174"></trkpt>
+			<trkpt lat="31.0578765" lon="121.5087703"></trkpt>
+			<trkpt lat="31.0577501" lon="121.50895"></trkpt>
+			<trkpt lat="31.0575548" lon="121.5093309"></trkpt>
+			<trkpt lat="31.0574629" lon="121.5097681"></trkpt>
+			<trkpt lat="31.0574468" lon="121.5101597"></trkpt>
+			<trkpt lat="31.057502" lon="121.5106103"></trkpt>
+			<trkpt lat="31.057672" lon="121.5133113"></trkpt>
+			<trkpt lat="31.0578512" lon="121.5164387"></trkpt>
+			<trkpt lat="31.0581315" lon="121.5201133"></trkpt>
+			<trkpt lat="31.0582901" lon="121.5230665"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[三鲁公路 <-> 闵瑞路]]></name>
+		<desc>Length: 1.022 km (0.635 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>747474</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.0582826" lon="121.523043"></trkpt>
+			<trkpt lat="31.0583016" lon="121.5235224"></trkpt>
+			<trkpt lat="31.0582901" lon="121.5238255"></trkpt>
+			<trkpt lat="31.0582349" lon="121.5239596"></trkpt>
+			<trkpt lat="31.0581683" lon="121.5240884"></trkpt>
+			<trkpt lat="31.0580258" lon="121.5242118"></trkpt>
+			<trkpt lat="31.0565392" lon="121.5247133"></trkpt>
+			<trkpt lat="31.0555627" lon="121.5250674"></trkpt>
+			<trkpt lat="31.0545884" lon="121.5253758"></trkpt>
+			<trkpt lat="31.0539174" lon="121.5256816"></trkpt>
+			<trkpt lat="31.0536072" lon="121.5257782"></trkpt>
+			<trkpt lat="31.0520286" lon="121.5259767"></trkpt>
+			<trkpt lat="31.0517069" lon="121.5260196"></trkpt>
+			<trkpt lat="31.0501513" lon="121.5260625"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[闵瑞路 <-> 浦航路]]></name>
+		<desc>Length: 0.784 km (0.487 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>747474</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.0501921" lon="121.5260565"></trkpt>
+			<trkpt lat="31.0486347" lon="121.5260866"></trkpt>
+			<trkpt lat="31.0467733" lon="121.5261135"></trkpt>
+			<trkpt lat="31.0447143" lon="121.526143"></trkpt>
+			<trkpt lat="31.043147" lon="121.5263173"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[浦航路 <-> 东城一路]]></name>
+		<desc>Length: 1.182 km (0.734 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>747474</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.0431827" lon="121.5263173"></trkpt>
+			<trkpt lat="31.0414465" lon="121.5265211"></trkpt>
+			<trkpt lat="31.0398171" lon="121.5267062"></trkpt>
+			<trkpt lat="31.0380659" lon="121.5269154"></trkpt>
+			<trkpt lat="31.0372937" lon="121.527012"></trkpt>
+			<trkpt lat="31.0363767" lon="121.5271729"></trkpt>
+			<trkpt lat="31.0345335" lon="121.5274867"></trkpt>
+			<trkpt lat="31.0326282" lon="121.5278059"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[东城一路 <-> 汇臻路]]></name>
+		<desc>Length: 1.345 km (0.836 mi)</desc>
+		<extensions>
+			<line xmlns="http://www.topografix.com/GPX/gpx_style/0/2"><color>747474</color></line>
+		</extensions>
+		<trkseg>
+			<trkpt lat="31.0326472" lon="121.5278146"></trkpt>
+			<trkpt lat="31.0305276" lon="121.5281788"></trkpt>
+			<trkpt lat="31.0294933" lon="121.5283719"></trkpt>
+			<trkpt lat="31.0284774" lon="121.5284926"></trkpt>
+			<trkpt lat="31.0283234" lon="121.5285113"></trkpt>
+			<trkpt lat="31.0277902" lon="121.5285113"></trkpt>
+			<trkpt lat="31.0276592" lon="121.5284443"></trkpt>
+			<trkpt lat="31.0275419" lon="121.5283585"></trkpt>
+			<trkpt lat="31.0274638" lon="121.5282136"></trkpt>
+			<trkpt lat="31.0273879" lon="121.5280312"></trkpt>
+			<trkpt lat="31.0273397" lon="121.5278327"></trkpt>
+			<trkpt lat="31.0272753" lon="121.5273097"></trkpt>
+			<trkpt lat="31.0272707" lon="121.5269825"></trkpt>
+			<trkpt lat="31.0274063" lon="121.5229082"></trkpt>
+			<trkpt lat="31.0274845" lon="121.5203547"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>

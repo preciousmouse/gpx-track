@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="31.1567022" lon="121.425662">
+		<name>上海南站 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.1700692" lon="121.4303398">
+		<name>漕宝路 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.1835077" lon="121.4315844">
+		<name>上海体育馆 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.1951455" lon="121.4339447">
+		<name>徐家汇 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2064149" lon="121.4419699">
+		<name>衡山路 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2151137" lon="121.446476">
+		<name>常熟路 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2189307" lon="121.4552736">
+		<name>陕西南路 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2249495" lon="121.4693069">
+		<name>黄陂南路 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2339218" lon="121.4710343">
+		<name>人民广场 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2405359" lon="121.4636314">
+		<name>新闸路 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<wpt lat="31.2437006" lon="121.454072">
+		<name>汉中路 - 1号线</name>
+		<extensions>
+			<marker xmlns="https://www.gpsvisualizer.com/GPX/gpx_wpt_style/0/1"><color>ff0000</color></marker>
+		</extensions>
+	</wpt>
+	<trk>
+		<name><![CDATA[上海南站 <-> 漕宝路]]></name>
+		<desc>Length: 1.606 km (0.998 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1566839" lon="121.425705"></trkpt>
+			<trkpt lat="31.1579141" lon="121.4273357"></trkpt>
+			<trkpt lat="31.159071" lon="121.4283228"></trkpt>
+			<trkpt lat="31.160393" lon="121.4289665"></trkpt>
+			<trkpt lat="31.1639368" lon="121.4296103"></trkpt>
+			<trkpt lat="31.1674988" lon="121.4298463"></trkpt>
+			<trkpt lat="31.1700325" lon="121.4302754"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[漕宝路 <-> 上海体育馆]]></name>
+		<desc>Length: 1.5 km (0.932 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1700325" lon="121.4303184"></trkpt>
+			<trkpt lat="31.1724743" lon="121.4305437"></trkpt>
+			<trkpt lat="31.1768897" lon="121.4309192"></trkpt>
+			<trkpt lat="31.1834802" lon="121.4316058"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[上海体育馆 <-> 徐家汇]]></name>
+		<desc>Length: 1.309 km (0.813 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1834893" lon="121.4316165"></trkpt>
+			<trkpt lat="31.1897765" lon="121.432389"></trkpt>
+			<trkpt lat="31.1932366" lon="121.4334512"></trkpt>
+			<trkpt lat="31.1950721" lon="121.4339018"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[徐家汇 <-> 衡山路]]></name>
+		<desc>Length: 1.478 km (0.918 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1950996" lon="121.4339232"></trkpt>
+			<trkpt lat="31.196412" lon="121.4342666"></trkpt>
+			<trkpt lat="31.1969168" lon="121.4346206"></trkpt>
+			<trkpt lat="31.2009731" lon="121.4377856"></trkpt>
+			<trkpt lat="31.2064149" lon="121.4418948"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[衡山路 <-> 常熟路]]></name>
+		<desc>Length: 1.122 km (0.697 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.2064424" lon="121.4418626"></trkpt>
+			<trkpt lat="31.2090209" lon="121.4436758"></trkpt>
+			<trkpt lat="31.2115168" lon="121.4445233"></trkpt>
+			<trkpt lat="31.2137924" lon="121.4445662"></trkpt>
+			<trkpt lat="31.2143155" lon="121.4446628"></trkpt>
+			<trkpt lat="31.2146458" lon="121.4452422"></trkpt>
+			<trkpt lat="31.2151321" lon="121.4463687"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[常熟路 <-> 陕西南路]]></name>
+		<desc>Length: 0.94 km (0.584 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.2151459" lon="121.4463955"></trkpt>
+			<trkpt lat="31.2172792" lon="121.4514434"></trkpt>
+			<trkpt lat="31.2189032" lon="121.4552522"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[站西南路 <-> 黄陂南路]]></name>
+		<desc>Length: 1.497 km (0.93 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.2189032" lon="121.4552736"></trkpt>
+			<trkpt lat="31.2207749" lon="121.4595973"></trkpt>
+			<trkpt lat="31.2218759" lon="121.4621723"></trkpt>
+			<trkpt lat="31.2226283" lon="121.4641893"></trkpt>
+			<trkpt lat="31.2248944" lon="121.4693713"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[黄陂南路 <-> 人民广场]]></name>
+		<desc>Length: 1.397 km (0.868 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.2249403" lon="121.4693606"></trkpt>
+			<trkpt lat="31.2265642" lon="121.4735878"></trkpt>
+			<trkpt lat="31.2270413" lon="121.4742851"></trkpt>
+			<trkpt lat="31.2276743" lon="121.4746392"></trkpt>
+			<trkpt lat="31.2278486" lon="121.474725"></trkpt>
+			<trkpt lat="31.2285275" lon="121.4747572"></trkpt>
+			<trkpt lat="31.2300413" lon="121.4740169"></trkpt>
+			<trkpt lat="31.2313715" lon="121.4731371"></trkpt>
+			<trkpt lat="31.2339127" lon="121.4710611"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[人民广场 <-> 新闸路]]></name>
+		<desc>Length: 1.062 km (0.66 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.2339195" lon="121.4710531"></trkpt>
+			<trkpt lat="31.2355685" lon="121.4699399"></trkpt>
+			<trkpt lat="31.2379307" lon="121.4685184"></trkpt>
+			<trkpt lat="31.2392562" lon="121.4670217"></trkpt>
+			<trkpt lat="31.2405542" lon="121.4636689"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[新闸路 <-> 汉中路]]></name>
+		<desc>Length: 0.976 km (0.607 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.2405634" lon="121.4636743"></trkpt>
+			<trkpt lat="31.2411964" lon="121.4620221"></trkpt>
+			<trkpt lat="31.2422788" lon="121.4589536"></trkpt>
+			<trkpt lat="31.2428108" lon="121.4573121"></trkpt>
+			<trkpt lat="31.2433612" lon="121.4554346"></trkpt>
+			<trkpt lat="31.2437006" lon="121.4540935"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
