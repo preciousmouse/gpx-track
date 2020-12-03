@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="31.1550106" lon="121.4248829">
+		<name>上海南 - 金山线</name>
+	</wpt>
+	<wpt lat="31.1115575" lon="121.3802308">
+		<name>莘庄 - 金山线</name>
+	</wpt>
+	<wpt lat="31.0813492" lon="121.3496751">
+		<name>春申 - 金山线</name>
+	</wpt>
+	<wpt lat="31.0612759" lon="121.3196705">
+		<name>新桥 - 金山线</name>
+	</wpt>
+	<wpt lat="31.0072584" lon="121.3163701">
+		<name>车墩 - 金山线</name>
+	</wpt>
+	<wpt lat="30.9422525" lon="121.3252535">
+		<name>叶榭 - 金山线</name>
+	</wpt>
+	<wpt lat="30.8972212" lon="121.3543582">
+		<name>亭林 - 金山线</name>
+	</wpt>
+	<wpt lat="30.8321934" lon="121.3635716">
+		<name>金山园区 - 金山线</name>
+	</wpt>
+	<wpt lat="30.7303546" lon="121.3581374">
+		<name>金山卫 - 金山线</name>
+	</wpt>
+	<trk>
+		<name><![CDATA[上海南 <-> 莘庄]]></name>
+		<desc>Length: 6.473 km (4.022 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1550312" lon="121.4248466"></trkpt>
+			<trkpt lat="31.1528644" lon="121.4217889"></trkpt>
+			<trkpt lat="31.1513356" lon="121.4201903"></trkpt>
+			<trkpt lat="31.1496324" lon="121.4182591"></trkpt>
+			<trkpt lat="31.1455831" lon="121.4133775"></trkpt>
+			<trkpt lat="31.1415519" lon="121.408335"></trkpt>
+			<trkpt lat="31.1388889" lon="121.4049768"></trkpt>
+			<trkpt lat="31.1375849" lon="121.4035177"></trkpt>
+			<trkpt lat="31.133581" lon="121.39943"></trkpt>
+			<trkpt lat="31.1273176" lon="121.3928103"></trkpt>
+			<trkpt lat="31.1250308" lon="121.3904178"></trkpt>
+			<trkpt lat="31.1243787" lon="121.3899136"></trkpt>
+			<trkpt lat="31.121357" lon="121.3877892"></trkpt>
+			<trkpt lat="31.1139906" lon="121.3825321"></trkpt>
+			<trkpt lat="31.1127964" lon="121.3816309"></trkpt>
+			<trkpt lat="31.1114462" lon="121.3803434"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[莘庄 <-> 春申]]></name>
+		<desc>Length: 4.439 km (2.758 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1114485" lon="121.3803381"></trkpt>
+			<trkpt lat="31.1085159" lon="121.3774681"></trkpt>
+			<trkpt lat="31.1011026" lon="121.370312"></trkpt>
+			<trkpt lat="31.0972165" lon="121.3662672"></trkpt>
+			<trkpt lat="31.0933763" lon="121.3622653"></trkpt>
+			<trkpt lat="31.0904179" lon="121.359272"></trkpt>
+			<trkpt lat="31.0854932" lon="121.3544655"></trkpt>
+			<trkpt lat="31.0810828" lon="121.3500881"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[春申 <-> 新桥]]></name>
+		<desc>Length: 3.681 km (2.287 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.0810822" lon="121.3500868"></trkpt>
+			<trkpt lat="31.078271" lon="121.3474917"></trkpt>
+			<trkpt lat="31.076764" lon="121.3459575"></trkpt>
+			<trkpt lat="31.0750549" lon="121.3440263"></trkpt>
+			<trkpt lat="31.0728035" lon="121.3403249"></trkpt>
+			<trkpt lat="31.0659664" lon="121.327976"></trkpt>
+			<trkpt lat="31.0611966" lon="121.3195324"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[新桥 <-> 车墩]]></name>
+		<desc>Length: 7.118 km (4.423 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.061196" lon="121.3195297"></trkpt>
+			<trkpt lat="31.0558016" lon="121.3098228"></trkpt>
+			<trkpt lat="31.0548917" lon="121.308192"></trkpt>
+			<trkpt lat="31.0532833" lon="121.3060892"></trkpt>
+			<trkpt lat="31.0523365" lon="121.3049626"></trkpt>
+			<trkpt lat="31.0512428" lon="121.3040829"></trkpt>
+			<trkpt lat="31.0504339" lon="121.3036752"></trkpt>
+			<trkpt lat="31.0493493" lon="121.3033104"></trkpt>
+			<trkpt lat="31.0485404" lon="121.3032138"></trkpt>
+			<trkpt lat="31.0474558" lon="121.3032138"></trkpt>
+			<trkpt lat="31.0462976" lon="121.3034606"></trkpt>
+			<trkpt lat="31.0427403" lon="121.3050485"></trkpt>
+			<trkpt lat="31.0359561" lon="121.3083851"></trkpt>
+			<trkpt lat="31.0311665" lon="121.3106275"></trkpt>
+			<trkpt lat="31.0176329" lon="121.3170862"></trkpt>
+			<trkpt lat="31.0142859" lon="121.318717"></trkpt>
+			<trkpt lat="31.0124285" lon="121.3191032"></trkpt>
+			<trkpt lat="31.0111871" lon="121.3189316"></trkpt>
+			<trkpt lat="31.0101481" lon="121.3185024"></trkpt>
+			<trkpt lat="31.0072469" lon="121.3163567"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[车墩 <-> 叶榭]]></name>
+		<desc>Length: 8.068 km (5.013 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.0072457" lon="121.316356"></trkpt>
+			<trkpt lat="30.9974943" lon="121.3090611"></trkpt>
+			<trkpt lat="30.9913876" lon="121.3052201"></trkpt>
+			<trkpt lat="30.9889411" lon="121.303997"></trkpt>
+			<trkpt lat="30.9865865" lon="121.3032031"></trkpt>
+			<trkpt lat="30.9843054" lon="121.3029456"></trkpt>
+			<trkpt lat="30.9824658" lon="121.3029885"></trkpt>
+			<trkpt lat="30.980479" lon="121.3034606"></trkpt>
+			<trkpt lat="30.9775355" lon="121.3046408"></trkpt>
+			<trkpt lat="30.9745919" lon="121.306529"></trkpt>
+			<trkpt lat="30.9614734" lon="121.3148761"></trkpt>
+			<trkpt lat="30.9554564" lon="121.3187814"></trkpt>
+			<trkpt lat="30.9528801" lon="121.3204765"></trkpt>
+			<trkpt lat="30.9421512" lon="121.325326"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[叶榭 <-> 亭林]]></name>
+		<desc>Length: 5.748 km (3.572 mi)</desc>
+		<trkseg>
+			<trkpt lat="30.9421328" lon="121.3253206"></trkpt>
+			<trkpt lat="30.9364826" lon="121.3278365"></trkpt>
+			<trkpt lat="30.9345869" lon="121.3290596"></trkpt>
+			<trkpt lat="30.927022" lon="121.3344884"></trkpt>
+			<trkpt lat="30.9131238" lon="121.3446164"></trkpt>
+			<trkpt lat="30.9051153" lon="121.35041"></trkpt>
+			<trkpt lat="30.9034951" lon="121.3515258"></trkpt>
+			<trkpt lat="30.9023168" lon="121.3522124"></trkpt>
+			<trkpt lat="30.9000153" lon="121.3532639"></trkpt>
+			<trkpt lat="30.8970693" lon="121.3544226"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[亭林 <-> 金山园区]]></name>
+		<desc>Length: 7.352 km (4.568 mi)</desc>
+		<trkseg>
+			<trkpt lat="30.8970555" lon="121.3544279"></trkpt>
+			<trkpt lat="30.8955963" lon="121.3548303"></trkpt>
+			<trkpt lat="30.8851556" lon="121.3573408"></trkpt>
+			<trkpt lat="30.8721169" lon="121.360538"></trkpt>
+			<trkpt lat="30.8569398" lon="121.3642716"></trkpt>
+			<trkpt lat="30.8519293" lon="121.3654947"></trkpt>
+			<trkpt lat="30.8509622" lon="121.3656878"></trkpt>
+			<trkpt lat="30.8498937" lon="121.3658917"></trkpt>
+			<trkpt lat="30.8490555" lon="121.3660204"></trkpt>
+			<trkpt lat="30.8481621" lon="121.3659775"></trkpt>
+			<trkpt lat="30.8474804" lon="121.365999"></trkpt>
+			<trkpt lat="30.8379281" lon="121.3650441"></trkpt>
+			<trkpt lat="30.8357909" lon="121.3647652"></trkpt>
+			<trkpt lat="30.8343906" lon="121.3645399"></trkpt>
+			<trkpt lat="30.8320783" lon="121.3639712"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[金山园区 <-> 金山卫]]></name>
+		<desc>Length: 12 km (7.459 mi)</desc>
+		<trkseg>
+			<trkpt lat="30.8320691" lon="121.3639954"></trkpt>
+			<trkpt lat="30.8271771" lon="121.3629413"></trkpt>
+			<trkpt lat="30.8240123" lon="121.3621581"></trkpt>
+			<trkpt lat="30.8228607" lon="121.3619435"></trkpt>
+			<trkpt lat="30.8223355" lon="121.361863"></trkpt>
+			<trkpt lat="30.8216813" lon="121.3617879"></trkpt>
+			<trkpt lat="30.8204467" lon="121.3617557"></trkpt>
+			<trkpt lat="30.8187698" lon="121.3619167"></trkpt>
+			<trkpt lat="30.8173048" lon="121.36226"></trkpt>
+			<trkpt lat="30.8138633" lon="121.3632524"></trkpt>
+			<trkpt lat="30.8111266" lon="121.3637888"></trkpt>
+			<trkpt lat="30.809256" lon="121.3641053"></trkpt>
+			<trkpt lat="30.8072749" lon="121.3643789"></trkpt>
+			<trkpt lat="30.8053535" lon="121.364556"></trkpt>
+			<trkpt lat="30.801695" lon="121.3648778"></trkpt>
+			<trkpt lat="30.7996999" lon="121.3649154"></trkpt>
+			<trkpt lat="30.7984189" lon="121.3647974"></trkpt>
+			<trkpt lat="30.797313" lon="121.364615"></trkpt>
+			<trkpt lat="30.7923824" lon="121.3635528"></trkpt>
+			<trkpt lat="30.7910736" lon="121.363349"></trkpt>
+			<trkpt lat="30.7904838" lon="121.3632846"></trkpt>
+			<trkpt lat="30.7899953" lon="121.3632417"></trkpt>
+			<trkpt lat="30.7849813" lon="121.3633275"></trkpt>
+			<trkpt lat="30.7775613" lon="121.3634133"></trkpt>
+			<trkpt lat="30.7721134" lon="121.3634992"></trkpt>
+			<trkpt lat="30.7715511" lon="121.3635314"></trkpt>
+			<trkpt lat="30.7710994" lon="121.3635957"></trkpt>
+			<trkpt lat="30.7690898" lon="121.3639712"></trkpt>
+			<trkpt lat="30.7624429" lon="121.3653231"></trkpt>
+			<trkpt lat="30.7582112" lon="121.3662028"></trkpt>
+			<trkpt lat="30.7575013" lon="121.3664174"></trkpt>
+			<trkpt lat="30.756607" lon="121.3667929"></trkpt>
+			<trkpt lat="30.756063" lon="121.3670826"></trkpt>
+			<trkpt lat="30.7544311" lon="121.368134"></trkpt>
+			<trkpt lat="30.7510565" lon="121.370548"></trkpt>
+			<trkpt lat="30.7504664" lon="121.3708913"></trkpt>
+			<trkpt lat="30.7499593" lon="121.3711703"></trkpt>
+			<trkpt lat="30.7495075" lon="121.3713419"></trkpt>
+			<trkpt lat="30.749028" lon="121.3715029"></trkpt>
+			<trkpt lat="30.7485301" lon="121.3716209"></trkpt>
+			<trkpt lat="30.7478109" lon="121.3717067"></trkpt>
+			<trkpt lat="30.7471009" lon="121.3717496"></trkpt>
+			<trkpt lat="30.7462434" lon="121.3716638"></trkpt>
+			<trkpt lat="30.745561" lon="121.3714814"></trkpt>
+			<trkpt lat="30.7448326" lon="121.3712454"></trkpt>
+			<trkpt lat="30.7440672" lon="121.3708484"></trkpt>
+			<trkpt lat="30.7381011" lon="121.3670826"></trkpt>
+			<trkpt lat="30.735768" lon="121.3655913"></trkpt>
+			<trkpt lat="30.7351501" lon="121.3651407"></trkpt>
+			<trkpt lat="30.7347858" lon="121.3648456"></trkpt>
+			<trkpt lat="30.7343755" lon="121.3644379"></trkpt>
+			<trkpt lat="30.734002" lon="121.3640463"></trkpt>
+			<trkpt lat="30.7336746" lon="121.3636386"></trkpt>
+			<trkpt lat="30.7330152" lon="121.3626784"></trkpt>
+			<trkpt lat="30.7325126" lon="121.3617182"></trkpt>
+			<trkpt lat="30.7304422" lon="121.3580006"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
