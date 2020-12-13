@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox https://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="31.1545997" lon="121.4279366">
+		<name>上海南站(南广场)</name>
+	</wpt>
+	<wpt lat="31.1597274" lon="121.4415166">
+		<name>石龙路东泉路</name>
+	</wpt>
+	<trk>
+		<name><![CDATA[上海南站(南广场) <-> 石龙路东泉路]]></name>
+		<desc>Length: 2.331 km (1.448 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1545939" lon="121.4279339"></trkpt>
+			<trkpt lat="31.154719" lon="121.4279634"></trkpt>
+			<trkpt lat="31.1549463" lon="121.4280733"></trkpt>
+			<trkpt lat="31.1550702" lon="121.4282531"></trkpt>
+			<trkpt lat="31.1551368" lon="121.4282826"></trkpt>
+			<trkpt lat="31.1553021" lon="121.4282772"></trkpt>
+			<trkpt lat="31.1553962" lon="121.4283094"></trkpt>
+			<trkpt lat="31.1554581" lon="121.4283818"></trkpt>
+			<trkpt lat="31.1555018" lon="121.4284676"></trkpt>
+			<trkpt lat="31.1555178" lon="121.4285427"></trkpt>
+			<trkpt lat="31.1555086" lon="121.4286581"></trkpt>
+			<trkpt lat="31.1554673" lon="121.4289236"></trkpt>
+			<trkpt lat="31.1553044" lon="121.4292052"></trkpt>
+			<trkpt lat="31.1552011" lon="121.4294547"></trkpt>
+			<trkpt lat="31.1550197" lon="121.4300099"></trkpt>
+			<trkpt lat="31.1550565" lon="121.4302754"></trkpt>
+			<trkpt lat="31.1545767" lon="121.4308468"></trkpt>
+			<trkpt lat="31.1538468" lon="121.4315924"></trkpt>
+			<trkpt lat="31.1536104" lon="121.4317882"></trkpt>
+			<trkpt lat="31.153149" lon="121.4320645"></trkpt>
+			<trkpt lat="31.1517718" lon="121.4326814"></trkpt>
+			<trkpt lat="31.1517304" lon="121.4327243"></trkpt>
+			<trkpt lat="31.1517304" lon="121.4327699"></trkpt>
+			<trkpt lat="31.1520265" lon="121.433655"></trkpt>
+			<trkpt lat="31.1522262" lon="121.4342639"></trkpt>
+			<trkpt lat="31.1524489" lon="121.4350498"></trkpt>
+			<trkpt lat="31.1526417" lon="121.4357981"></trkpt>
+			<trkpt lat="31.1527588" lon="121.4359081"></trkpt>
+			<trkpt lat="31.154175" lon="121.4355057"></trkpt>
+			<trkpt lat="31.1562615" lon="121.4348781"></trkpt>
+			<trkpt lat="31.1574643" lon="121.4344946"></trkpt>
+			<trkpt lat="31.1583365" lon="121.4368522"></trkpt>
+			<trkpt lat="31.1584925" lon="121.4372626"></trkpt>
+			<trkpt lat="31.1591283" lon="121.4393654"></trkpt>
+			<trkpt lat="31.159592" lon="121.440956"></trkpt>
+			<trkpt lat="31.1597366" lon="121.4415166"></trkpt>
+		</trkseg>
+	</trk>
+	<trk>
+		<name><![CDATA[石龙路东泉路 <-> 耀华路济阳路]]></name>
+		<desc>Length: 5.447 km (3.385 mi)</desc>
+		<trkseg>
+			<trkpt lat="31.1597337" lon="121.4415099"></trkpt>
+			<trkpt lat="31.1601933" lon="121.443437"></trkpt>
+			<trkpt lat="31.1609783" lon="121.4466155"></trkpt>
+			<trkpt lat="31.1611229" lon="121.4472646"></trkpt>
+			<trkpt lat="31.1611826" lon="121.4477393"></trkpt>
+			<trkpt lat="31.1612537" lon="121.4486593"></trkpt>
+			<trkpt lat="31.1613272" lon="121.4493245"></trkpt>
+			<trkpt lat="31.1614396" lon="121.4498127"></trkpt>
+			<trkpt lat="31.1616967" lon="121.4505503"></trkpt>
+			<trkpt lat="31.1625253" lon="121.4524037"></trkpt>
+			<trkpt lat="31.1630623" lon="121.4536026"></trkpt>
+			<trkpt lat="31.1634984" lon="121.4546031"></trkpt>
+			<trkpt lat="31.1638381" lon="121.4553165"></trkpt>
+			<trkpt lat="31.1643017" lon="121.4563519"></trkpt>
+			<trkpt lat="31.1646689" lon="121.45717"></trkpt>
+			<trkpt lat="31.1650981" lon="121.4581704"></trkpt>
+			<trkpt lat="31.165245" lon="121.4586049"></trkpt>
+			<trkpt lat="31.1655961" lon="121.4593694"></trkpt>
+			<trkpt lat="31.1661102" lon="121.4604235"></trkpt>
+			<trkpt lat="31.1667207" lon="121.4616385"></trkpt>
+			<trkpt lat="31.1674207" lon="121.4630279"></trkpt>
+			<trkpt lat="31.1676915" lon="121.4636958"></trkpt>
+			<trkpt lat="31.1679165" lon="121.4643985"></trkpt>
+			<trkpt lat="31.1680106" lon="121.4649698"></trkpt>
+			<trkpt lat="31.1680771" lon="121.4655653"></trkpt>
+			<trkpt lat="31.1681965" lon="121.4672711"></trkpt>
+			<trkpt lat="31.1683181" lon="121.4685103"></trkpt>
+			<trkpt lat="31.168403" lon="121.4690602"></trkpt>
+			<trkpt lat="31.1683227" lon="121.4685318"></trkpt>
+			<trkpt lat="31.1684879" lon="121.4696664"></trkpt>
+			<trkpt lat="31.1686807" lon="121.4706936"></trkpt>
+			<trkpt lat="31.1689056" lon="121.4719141"></trkpt>
+			<trkpt lat="31.1690273" lon="121.4727402"></trkpt>
+			<trkpt lat="31.1693899" lon="121.4750469"></trkpt>
+			<trkpt lat="31.169399" lon="121.47524"></trkpt>
+			<trkpt lat="31.167866" lon="121.4758998"></trkpt>
+			<trkpt lat="31.1672693" lon="121.4732176"></trkpt>
+			<trkpt lat="31.166723" lon="121.4703423"></trkpt>
+			<trkpt lat="31.1690502" lon="121.4699399"></trkpt>
+			<trkpt lat="31.1700187" lon="121.4697468"></trkpt>
+			<trkpt lat="31.1703905" lon="121.4704657"></trkpt>
+			<trkpt lat="31.1721117" lon="121.4735073"></trkpt>
+			<trkpt lat="31.1726258" lon="121.4745587"></trkpt>
+			<trkpt lat="31.1735392" lon="121.4761841"></trkpt>
+		</trkseg>
+	</trk>
+</gpx>
